@@ -1,0 +1,86 @@
+/*
+Theme Name: My First Theme
+Theme URI: https://iamzerubabel.com/
+Author: Zerubabel Firew
+Author URI: https://iamzerubabel.com/
+Description: This is my first theme
+Version: 1.0.0
+License: GNU General Public License V2 or Later
+License URI: https://iamzerubabel.com/
+Tags: right-sidebar
+*/ 
+
+/***********************
+Header
+***********************/
+header {
+    text-align: center;
+    background-color: #162656;
+    color: white;
+    padding: 20px 0;
+}
+
+/***********************
+Navigation
+***********************/
+nav a {
+    color: white;
+    text-decoration: none;
+}
+.menu {
+    list-style: none;
+}
+.menu li {
+    display: inline;
+}
+
+/***********************
+Main
+***********************/
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 0;
+}
+
+aside {
+    border: 2px solid #F39E00;
+}
+
+/***********************
+Footer
+***********************/
+footer {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    background-color: #162656;
+}
+
+.twitter-stuff {
+    color: white;
+    /* text-decoration: none; */
+}
+
+/***********************
+Store
+***********************/
+.store-product {
+ border: 2px solid #162656;
+}
+
+
+
+* {
+    margin: 0;
+    Padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 75%;
+    margin: auto;
+
+}
+
