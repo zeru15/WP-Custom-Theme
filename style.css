@@ -20,6 +20,7 @@ header {
     padding: 20px 0;
 }
 
+
 /***********************
 Navigation
 ***********************/
@@ -79,7 +80,7 @@ Store
 }
 
 .container {
-    width: 75%;
+    /* width: 75%; */
     margin: auto;
 
 }
